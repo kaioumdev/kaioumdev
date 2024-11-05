@@ -11,6 +11,23 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiyumdev&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="abdulkaiyumfahim" /></p>
 
+# 🪶 GSSOC(24) Badges:
+
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; gap: 10px;'>
+  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=96" width="100px" height="100px" />
+</div>
+</div>
+
+# Hacktoberfest'24:
+  <img src="https://holopin.me/tborundia" height="300px" />
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
