@@ -26,7 +26,7 @@
 </div>
 
 # Hacktoberfest'24:
-  <img src="https://holopin.me/kaiyumdev" height="300px" />
+  <img src="https://holopin.me/tborundia" height="300px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
