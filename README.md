@@ -24,7 +24,7 @@
 </div>
 
 # Hacktoberfest'24:
-  <img src="https://holopin.me/kaiyumdev" height="300px" />
+  <img src="https://holopin.me/kaioumdev" height="300px" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiyumdev&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="abdulkaiyumfahim" /></p>
 
