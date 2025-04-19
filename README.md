@@ -1,6 +1,6 @@
 
 <h2 align="left">Md Kaioum Islam</h2>
-<h4 align="left">Hi, I'm Kaioum, a passionate self-taught Fullstack 🧑‍💻️ web developer and a freelance software engineer from 🇧🇩 Dhaka, Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.</h4>
+<h4 align="left">Hi, I'm Kaioum, a passionate self-taught Fullstack 🧑‍💻️ web developer and a freelance software engineer from 🇧🇩 Jashore, Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkaiyumfahim&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkaiyumfahim" /> </p>
 
