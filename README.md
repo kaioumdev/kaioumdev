@@ -85,3 +85,80 @@ For a more detailed overview of my projects, please visit my [portfolio](https:/
   <a href="https://dev.to/kaiyumdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to Profile" height="30" width="40" /></a>
   <a href="https://medium.com/@kaiyumdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Profile" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+
+# Md Kaioum Islam
+
+**Full-Stack Software Engineer · MERN Stack · React Native**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kaioumdev.vercel.app-black?style=flat-square&logo=vercel)](https://kaioumdev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaioumdev-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kaioumdev)
+[![GitHub](https://img.shields.io/badge/GitHub-kaioumdev-181717?style=flat-square&logo=github)](https://github.com/kaioumdev)
+[![Email](https://img.shields.io/badge/Email-mdkaioumislam.dev%40gmail.com-black?style=flat-square&logo=gmail)](mailto:mdkaioumislam.dev@gmail.com)
+
+</div>
+
+---
+
+I build scalable, production-grade web applications across the full stack. My core expertise is the **MERN ecosystem** — MongoDB, Express.js, React.js, and Node.js — extended with TypeScript, Next.js, GraphQL, Docker, and real-time systems via Socket.IO. Currently building an Airbnb-style rental marketplace platform as a Frontend Engineer.
+
+I write clean, maintainable code with a focus on performance, security, and architecture. Open-source contributor — **ranked #344 globally in GSSoC 2024** out of thousands of contributors worldwide.
+
+---
+
+## Tech Stack
+
+**Frontend**
+`React.js` `Next.js` `React Native (Expo)` `TypeScript` `JavaScript ES6+` `Redux Toolkit` `Framer Motion` `Tailwind CSS` `HTML5` `CSS3`
+
+**Backend**
+`Node.js` `Express.js` `REST API` `GraphQL` `Socket.IO` `Nodemailer`
+
+**Database**
+`MongoDB` `Mongoose` `PostgreSQL` `MySQL` `Prisma`
+
+**Auth & DevOps**
+`JWT` `NextAuth` `Firebase` `Docker` `Git` `GitHub` `CI/CD` `Cloudinary`
+
+**Testing**
+`Jest` `React Testing Library` `Vitest`
+
+---
+
+## Featured Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **InterviewAI** — AI-powered interview prep platform with Gemini AI, mock interview mode, skill gap analysis, and ATS résumé generator | React 19, Vite, Node.js, Express, MongoDB, Google Gemini, Puppeteer, JWT | [Live](https://interview-scorer-ai-frontend.vercel.app) · [Frontend](https://github.com/kaioumdev/Interview-Scorer-AI-Frontend) · [Backend](https://github.com/kaioumdev/Interview-Scorer-AI-Backend) |
+| **DevHunt** — Full-stack job portal with role-based auth, AI job recommendations (Gemma), and full Swagger API docs | React 18, Redux, Node.js, MongoDB, OpenRouter API, Cloudinary | [Live](https://job-hunt-frontend-nu.vercel.app) · [Frontend](https://github.com/kaioumdev/Job-Hunt-Frontend) · [Backend](https://github.com/kaioumdev/Job-Hunt-Backend) |
+| **Ubar Ride Share** — Real-time ride-hailing app with live GPS tracking, Socket.IO ride lifecycle, and dynamic fare engine | React 18, GSAP, Socket.IO, Google Maps, Node.js, MongoDB, Geoapify | [Live](https://ride-share-frontend-zeta.vercel.app) · [Frontend](https://github.com/kaioumdev/Ride-Share-Frontend) · [Backend](https://github.com/kaioumdev/Ride-Share-Backend) |
+| **Lebaba Shopping Mall** — E-commerce platform with Stripe checkout, admin CMS, RTK Query, and Chart.js analytics | React 18, Redux, Stripe, Node.js, MongoDB, Cloudinary, Chart.js | [Live](https://shopping-mall-frontend-nine.vercel.app) · [Frontend](https://github.com/kaioumdev/Shopping-Mall-Frontend) · [Backend](https://github.com/kaioumdev/Shopping-Mall-Backend) |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaioumdev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaioumdev&layout=compact&theme=default&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## Open Source
+
+- **GSSoC 2024** — Ranked **#344 globally** · contributed to multiple production repositories · [Certificate](https://drive.google.com/file/d/1qI-iLt8Uhp12C7CzYzJ-1q_e3SUD8iuq/view?usp=sharing)
+- **Hacktoberfest 2024** — Earned all Level 1–4 achievement badges
+- **SWOC & GSSoC-ext** — Multi-program open-source contributor
+
+---
+
+<div align="center">
+
+[kaioumdev.vercel.app](https://kaioumdev.vercel.app) · [linkedin.com/in/kaioumdev](https://linkedin.com/in/kaioumdev) · [github.com/kaioumdev](https://github.com/kaioumdev)
+
+</div>
+
