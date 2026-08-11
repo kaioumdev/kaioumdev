@@ -152,7 +152,6 @@ I write clean, maintainable code with a focus on performance, security, and arch
 
 - **GSSoC 2024** — Ranked **#344 globally** · contributed to multiple production repositories · [Certificate](https://drive.google.com/file/d/1qI-iLt8Uhp12C7CzYzJ-1q_e3SUD8iuq/view?usp=sharing)
 - **Hacktoberfest 2024** — Earned all Level 1–4 achievement badges. [Achievements](https://camo.githubusercontent.com/34329c4fdae76398f81eea601bcf21c05e59f6dfacc495cf37c9550534679712/68747470733a2f2f686f6c6f70696e2e6d652f6b616979756d646576)
-- **SWOC & GSSoC-ext** — Multi-program open-source contributor
 
 ---
 
