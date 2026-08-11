@@ -123,41 +123,10 @@ I write clean, maintainable code with a focus on performance, security, and arch
 
 **Testing**
 `Jest` `React Testing Library` `Vitest`
-
----
-
-## Featured Projects
-
-| Project | Stack | Links |
-|---|---|---|
-| **InterviewAI** — AI-powered interview prep platform with Gemini AI, mock interview mode, skill gap analysis, and ATS résumé generator | React 19, Vite, Node.js, Express, MongoDB, Google Gemini, Puppeteer, JWT | [Live](https://interview-scorer-ai-frontend.vercel.app) · [Frontend](https://github.com/kaioumdev/Interview-Scorer-AI-Frontend) · [Backend](https://github.com/kaioumdev/Interview-Scorer-AI-Backend) |
-| **DevHunt** — Full-stack job portal with role-based auth, AI job recommendations (Gemma), and full Swagger API docs | React 18, Redux, Node.js, MongoDB, OpenRouter API, Cloudinary | [Live](https://job-hunt-frontend-nu.vercel.app) · [Frontend](https://github.com/kaioumdev/Job-Hunt-Frontend) · [Backend](https://github.com/kaioumdev/Job-Hunt-Backend) |
-| **Ubar Ride Share** — Real-time ride-hailing app with live GPS tracking, Socket.IO ride lifecycle, and dynamic fare engine | React 18, GSAP, Socket.IO, Google Maps, Node.js, MongoDB, Geoapify | [Live](https://ride-share-frontend-zeta.vercel.app) · [Frontend](https://github.com/kaioumdev/Ride-Share-Frontend) · [Backend](https://github.com/kaioumdev/Ride-Share-Backend) |
-| **Lebaba Shopping Mall** — E-commerce platform with Stripe checkout, admin CMS, RTK Query, and Chart.js analytics | React 18, Redux, Stripe, Node.js, MongoDB, Cloudinary, Chart.js | [Live](https://shopping-mall-frontend-nine.vercel.app) · [Frontend](https://github.com/kaioumdev/Shopping-Mall-Frontend) · [Backend](https://github.com/kaioumdev/Shopping-Mall-Backend) |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaioumdev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaioumdev&layout=compact&theme=default&hide_border=true&langs_count=8" />
-
-</div>
-
 ---
 
 ## Open Source
 
 - **GSSoC 2024** — Ranked **#344 globally** · contributed to multiple production repositories · [Certificate](https://drive.google.com/file/d/1qI-iLt8Uhp12C7CzYzJ-1q_e3SUD8iuq/view?usp=sharing)
 - **Hacktoberfest 2024** — Earned all Level 1–4 achievement badges. [Achievements](https://camo.githubusercontent.com/34329c4fdae76398f81eea601bcf21c05e59f6dfacc495cf37c9550534679712/68747470733a2f2f686f6c6f70696e2e6d652f6b616979756d646576)
-
----
-
-<div align="center">
-
-[kaioumdev.vercel.app](https://kaioumdev.vercel.app) · [linkedin.com/in/kaioumdev](https://linkedin.com/in/kaioumdev) · [github.com/kaioumdev](https://github.com/kaioumdev)
-
-</div>
 
