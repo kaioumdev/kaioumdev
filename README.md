@@ -47,23 +47,6 @@ As a dedicated Full-Stack Software Engineer specializing in the MERN stack, I ex
 *   **Auth & Tools:** Firebase, NextAuth, JWT, Docker, Git, GitHub, CI/CD, Puppeteer
 *   **Testing:** Jest, React Testing Library, Vitest
 
-# Md Kaioum Islam
-
-**Full-Stack Software Engineer · MERN Stack · React Native**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaioumdev.vercel.app-black?style=flat-square&logo=vercel)](https://kaioumdev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaioumdev-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kaioumdev)
-[![GitHub](https://img.shields.io/badge/GitHub-kaioumdev-181717?style=flat-square&logo=github)](https://github.com/kaioumdev)
-[![Email](https://img.shields.io/badge/Email-mdkaioumislam.dev%40gmail.com-black?style=flat-square&logo=gmail)](mailto:mdkaioumislam.dev@gmail.com)
-
-</div>
-
----
-
-I build scalable, production-grade web applications across the full stack. My core expertise is the **MERN ecosystem** — MongoDB, Express.js, React.js, and Node.js — extended with TypeScript, Next.js, GraphQL, Docker, and real-time systems via Socket.IO. Currently building an Airbnb-style rental marketplace platform as a Frontend Engineer.
-
-I write clean, maintainable code with a focus on performance, security, and architecture. Open-source contributor — **ranked #344 globally in GSSoC 2024** out of thousands of contributors worldwide.
-
 ---
 
 ## Tech Stack
