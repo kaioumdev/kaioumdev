@@ -16,16 +16,6 @@ As a dedicated Full-Stack Software Engineer specializing in the MERN stack, I ex
 
 ---
 
-### 🛠️ Tech Stack & Expertise
-
-*   **Frontend:** React.js, Next.js, React Native, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3, Tailwind CSS, Bootstrap, ShadCN, Framer Motion
-*   **Backend:** Node.js, Express.js, RESTful APIs, GraphQL
-*   **Databases:** MongoDB, PostgreSQL, MySQL (with Mongoose, Prisma)
-*   **Auth & Tools:** Firebase, NextAuth, JWT, Docker, Git, GitHub, CI/CD, Puppeteer
-*   **Testing:** Jest, React Testing Library, Vitest
-
----
-
 ## Tech Stack
 
 **Frontend**
